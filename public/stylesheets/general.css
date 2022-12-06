@@ -1,0 +1,18 @@
+*{
+    margin: 1;
+}
+a {
+    text-decoration: double;
+}
+li {
+    list-style: none;
+}
+ul, ol {
+    padding: 1;
+}
+
+h1{
+    font-family: "Raleway", "sans-serif";
+    font-size: 32px;
+    text-transform: uppercase;
+}
