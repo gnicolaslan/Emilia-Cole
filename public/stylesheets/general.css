@@ -1,8 +1,9 @@
 *{
-    margin: 1;
+    margin: 0;
 }
 body {
-    font-family: "Open Sans";
+    font-family: var(--tipografiaGeneral);
+    padding: 10px;
 }
 a {
     text-decoration: double;
@@ -12,11 +13,11 @@ li {
     list-style: none;
 }
 ul, ol {
-    padding: 1;
+    padding: 0;
 }
 
 h1{
-    font-family: "Raleway", "sans-serif";
+    font-family: var(--tipografiaTitulos);
     font-weight: 700;
     font-size: 32px;
     text-transform: uppercase;
