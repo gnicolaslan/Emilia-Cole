@@ -1,3 +1,1 @@
-asd
-<img src="/images/Sin título-1_Mesa de trabajo 1" alt="Logo" style="max-width: 100%;">
-https://github.com/gnicolaslan/Emilia-Cole/blob/estilos/Sin título-1_Mesa de trabajo 1?raw=true
+https://github.com/gnicolaslan/Emilia-Cole/blob/estilos/public/images/Sin%20t%C3%ADtulo-1_Mesa%20de%20trabajo%201.png
