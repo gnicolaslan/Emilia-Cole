@@ -1,2 +1,2 @@
 asd
-<img src="/images/Sin título-1_Mesa de trabajo 1" alt="Logo" style="max-width: 100%;">
+<img src="/public/images/Sin título-1_Mesa de trabajo 1" alt="Logo" style="max-width: 100%;">
